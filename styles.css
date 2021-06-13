@@ -42,6 +42,7 @@ html {
 }
 
 .overlay h1 {
+ 
   font-size: 70px;
   letter-spacing: 3px;
   margin: 0 0 5px;
@@ -69,3 +70,26 @@ nav ul li a {
   list-style-type: none;
   text-align:right;}*/
 
+
+
+
+
+  /*styling for contacts page*/
+
+  .contact-form {
+    display: grid;
+    background-color:rgba(5, 12, 6, 0.8);
+    color: white;
+  }
+
+  form {
+    display: grid;
+    justify-items: end;
+    
+   
+  
+  }
+
+.contact-text {
+  align-items: start;
+}
